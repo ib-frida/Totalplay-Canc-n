@@ -1,0 +1,31 @@
+/* !
+ * animate.css -https://daneden.github.io/animate.css/
+ * Version - 3.7.2
+ * Licensed under the MIT license - http://opensource.org/licenses/MIT
+ *
+ * Copyright (c) 2019 Daniel Eden */
+
+.nivo-box, .nivo-caption, .nivoSlider {
+  overflow: hidden;
+}
+
+.nivoSlider {
+  position: relative;
+  width: 100%;
+  height: auto;
+}
+
+div {
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  text-size-adjust: 100%;
+  font-weight: 400;
+  line-height: 1.5;
+  font-family: 'Noto Sans','Helvetica',Arial,sans-serif;
+  font-size: 14px;
+  color: #000;
+  box-sizing: inherit;
+  display: block;
+  margin-top: 50px;
+}
+
